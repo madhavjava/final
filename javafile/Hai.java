@@ -6,6 +6,7 @@ public class Hai {
 
 System.out.println("initial");
 System.out.println("first on sub1");
+System.out.println("third on sub1");
 	}
 
 }
